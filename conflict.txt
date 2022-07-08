@@ -1,4 +1,4 @@
-conflict 2
+conflict remote
 conflict remote
 conflict remote
 conflict remote
