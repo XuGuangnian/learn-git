@@ -1,5 +1,5 @@
 conflict 2
-conflict 3
+conflict remote
 conflict remote
 conflict remote
 conflict remote
