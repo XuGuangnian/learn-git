@@ -3,3 +3,4 @@ conflict remote
 conflict remote
 conflict remote
 conflict remote
+conflict local
