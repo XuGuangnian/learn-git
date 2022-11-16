@@ -1,7 +1,1 @@
-conflict remote
-conflict remote
-conflict remote
-conflict remote
-conflict remote
-conflict local
-master branch
+master
